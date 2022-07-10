@@ -9,14 +9,8 @@
 
 ## <p>Features</p>
 <ul>
-<li>Use Dart to perform asynchronous tasks.</li>
-<li>Async and await / Futures</li>
-<li>Network with the Dart http package.</li>
-<li>APIs to get real Data</li>
-<li>JSONs and parse them using the Dart convert package.</li>
-<li>Pass data forwards and backwards between screens using the Navigator.</li>
-<li>Handle exceptions in Dart using try/catch/throw.</li>
-<li>Lifecycle of Stateful Widgets and override them.</li>
-<li>Use the Geolocator package to get live location data for both iOS and Android.</li>
- <li>Use the TextField Widget to take user input.</li>
+<li>Firebase authentication to register and sign in users.</li>
+<li>ListViews to build scrolling views.</li>
+<li>Firebase Cloud Firestore to store and retrieve data on the fly.</li>
 </u>
+
