@@ -1,4 +1,4 @@
-# Weather App with Api
+# Chat app with Login / Registration 
 
 ⚠️ There is a app preview, please wait for loading ⚠
 
