@@ -14,3 +14,15 @@
 <li>Firebase Cloud Firestore to store and retrieve data on the fly.</li>
 </u>
 
+
+## <p>Dependencies</p>
+
+<ul>
+<li>animated_text_kit</li>
+<li>firebase_core</li>
+<li>firebase_auth</li>
+<li>firebase_core</li>
+<li>cloud_firestore</li> 
+</u>
+
+
