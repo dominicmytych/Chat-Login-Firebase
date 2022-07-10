@@ -15,7 +15,9 @@
 </u>
 
 
-## <p>Dependencies</p>
+## 
+
+<p>Dependencies</p>
 
 <ul>
 <li>animated_text_kit</li>
